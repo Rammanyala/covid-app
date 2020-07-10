@@ -1,0 +1,13 @@
+{
+  "main.css": "/covid-app/static/css/main.f5de8a8d.chunk.css",
+  "main.js": "/covid-app/static/js/main.497dc2e5.chunk.js",
+  "main.js.map": "/covid-app/static/js/main.497dc2e5.chunk.js.map",
+  "runtime~main.js": "/covid-app/static/js/runtime~main.1092116a.js",
+  "runtime~main.js.map": "/covid-app/static/js/runtime~main.1092116a.js.map",
+  "static/js/2.1dbae479.chunk.js": "/covid-app/static/js/2.1dbae479.chunk.js",
+  "static/js/2.1dbae479.chunk.js.map": "/covid-app/static/js/2.1dbae479.chunk.js.map",
+  "index.html": "/covid-app/index.html",
+  "precache-manifest.f83cbfb1c3bc809dc4c29f8384181604.js": "/covid-app/precache-manifest.f83cbfb1c3bc809dc4c29f8384181604.js",
+  "service-worker.js": "/covid-app/service-worker.js",
+  "static/css/main.f5de8a8d.chunk.css.map": "/covid-app/static/css/main.f5de8a8d.chunk.css.map"
+}
